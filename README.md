@@ -5,4 +5,4 @@
  first assignment via global navigation ensuring both files are in the folder of the first assignment, which should be at the top of both pages. You should create a footer with your address and a copyright. 
  Folder is accessible, incorporating appropriate semantic HTML tags.
 
- Initially we were asked to create html files without CSS but Instructor requested to also incorporate CSS in subsequent classes.
+ Initially we were asked to create html files without CSS but Instructor requested to also incorporate CSS in subsequent classes. This CSS file is called style.css
